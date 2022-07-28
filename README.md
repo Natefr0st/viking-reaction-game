@@ -1,5 +1,5 @@
 # reaction-timer-game
-### Viking Reaction Game - Click the block as soon as you see to show everyone how fast you are!
+### Viking Reaction Game - Click the block as soon as you see it to show everyone how fast you are!
 ## Project setup
 ```
 npm install
