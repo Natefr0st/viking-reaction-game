@@ -1,5 +1,5 @@
 # reaction-timer-game
-
+### Viking Reaction Game - Click the block as soon as you see to show everyone how fast you are!
 ## Project setup
 ```
 npm install
@@ -14,11 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
